@@ -1,6 +1,7 @@
 #Cyberlog
 
 #Session 1
+
 Cyberlog is a Flutter-based mobile application created to understand the foundations of cross-platform development. 
 This project helped me explore the differences between native and cross-platform development, the role of hot reload in 
 improving development speed, and the widget-based structure that forms the core of Flutter applications.
@@ -34,6 +35,7 @@ cd cyberlog
 flutter run
 
 #Session 2
+
 Just-In-Time (JIT) Compilation
 Used during development to compile Dart code while the app is running.
 Enables Flutter’s Hot Reload by quickly injecting updated code into the active app.

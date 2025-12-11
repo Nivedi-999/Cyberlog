@@ -66,3 +66,29 @@ Example:
 "The number $number is ${resultText}."
 Using string interpolation ensures cleaner syntax, fewer formatting errors, and more readable UI text. 
 It is especially useful in Flutter, where dynamic text updates are common in interactive screens and forms.
+
+#Session 3
+# CyberLog - Flutter Activity Logger
+
+## Features Implemented
+
+### 1. Custom Class: `Log`
+- Created a structured `Log` class with:
+  - `action` (String)
+  - `timestamp` (DateTime)
+  - `status` (String)
+
+### 2. Data Modeling with List<Log>
+- Instantiated a `List<Log>` containing 4 realistic sample security events.
+- Used real `DateTime` objects for accurate logging.
+
+### 3. Efficient UI Rendering with List.map()
+- Used the powerful `.map()` method on the logs list to **dynamically generate** a `Card` + `ListTile` for each log entry.
+- This is the **Flutter's recommended way to render lists** — clean, efficient, and scalable.
+
+### Benefits Shown
+- **Classes** give structure to data (like database records)
+- **List iteration with map()** avoids repetitive code and makes adding new logs automatic
+- Clean separation of data and UI
+
+Perfect example of Object-Oriented Programming + Functional Reactive UI in Flutter!

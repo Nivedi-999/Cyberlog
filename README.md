@@ -34,6 +34,8 @@ flutter create cyberlog
 cd cyberlog
 flutter run
 
+<img width="166" height="337" alt="running_emulator_for_portfoli1" src="https://github.com/user-attachments/assets/8116c95b-ced3-487b-b1e8-e2d04ee14787" />
+
 # Session 2
 
 Just-In-Time (JIT) Compilation
@@ -67,6 +69,8 @@ Example:
 Using string interpolation ensures cleaner syntax, fewer formatting errors, and more readable UI text. 
 It is especially useful in Flutter, where dynamic text updates are common in interactive screens and forms.
 
+<img width="202" height="432" alt="portfolio_2" src="https://github.com/user-attachments/assets/95bfca9b-651d-49c3-b01a-123cdb68b918" />
+
 # Session 3
 #CyberLog - Flutter Activity Logger
 
@@ -89,4 +93,32 @@ It is especially useful in Flutter, where dynamic text updates are common in int
 - **List iteration with map()** avoids repetitive code and makes adding new logs automatic
 - Clean separation of data and UI
 
-Perfect example of Object-Oriented Programming + Functional Reactive UI in Flutter!
+Perfect example of Object-Oriented Programming + Functional Reactive UI in Flutter.
+
+<img width="167" height="337" alt="portfolio_3" src="https://github.com/user-attachments/assets/02395537-d54c-4c6b-b7dc-cd93c7ed6079" />
+
+# Session 4
+<img width="179" height="365" alt="image" src="https://github.com/user-attachments/assets/2e96e75d-c1e0-44ef-a8d0-d5eefc396fbe" />
+
+# Session 5
+<img width="193" height="411" alt="portfolio_5" src="https://github.com/user-attachments/assets/538af14d-8763-4005-ad3f-d5a5e1fef6c9" />
+
+# Session 6
+<img width="187" height="341" alt="portfolio_6(1)" src="https://github.com/user-attachments/assets/a4bada39-8aa8-4cf9-845c-c894d8c3610d" />
+
+<img width="179" height="342" alt="portfolio_6(2)" src="https://github.com/user-attachments/assets/f1f5d6a2-4077-4ba4-82e2-c4df0b1d70e1" />
+
+<img width="184" height="340" alt="portfolio_6(3)" src="https://github.com/user-attachments/assets/3b5bf533-f78a-4bf9-86e8-7e69e43b2a63" />
+
+# Session 7
+<img width="297" height="639" alt="image" src="https://github.com/user-attachments/assets/d41f5002-9324-4245-9b31-47cb32ad33f4" />
+
+<img width="310" height="637" alt="image" src="https://github.com/user-attachments/assets/b16eeae0-62f4-4da2-b1ca-b9a659384a55" />
+
+<img width="294" height="631" alt="image" src="https://github.com/user-attachments/assets/f84c20d4-4f02-436f-aa42-4b443be5e0de" />
+
+# Session 8
+<img width="185" height="396" alt="portfolio_8" src="https://github.com/user-attachments/assets/2bd14146-eb23-49b7-b4c2-5fbbcac6ac69" />
+
+# Session 9
+<img width="179" height="365" alt="portfolio_9" src="https://github.com/user-attachments/assets/8ef24bd2-3460-4615-83a1-7812cee012d0" />
